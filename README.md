@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Arshpreet Singh](https://github.com/arshpreets425)  
+# 👋 Hi, I'm [Arshpreet Singh](https://github.com/arshpreets425@gmail.com)  
 
 A **Software Engineer** passionate about **AI**, **Machine Learning**, and **full-stack development**.  
 Currently pursuing my **Bachelor's in Software Engineering** at **Concordia University** (Graduating in 2025).
