@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Arshpreet Singh](https://github.com/arshpreets425@gmail.com)  
+# 👋 Hi, I'm [Arshpreet Singh](https://github.com/ashx11)  
 
 A **Software Engineer** passionate about **AI**, **Machine Learning**, and **full-stack development**.  
 Currently pursuing my **Bachelor's in Software Engineering** at **Concordia University** (Graduating in 2025).
@@ -35,15 +35,15 @@ From coding algorithms to deploying scalable systems, I thrive on solving comple
 ---
 
 ## 🌟 Featured Projects  
-🎮 **[Sportganise](https://github.com/arshpreets425/sportganise)**  
+🎮 **[Sportganise](https://github.com/ashx11/sportganise)**  
 Platform for badminton enthusiasts featuring event management and real-time calendars.  
 *Tech: React, Flutter, Spring Boot*
 
-📚 **[MindA.I.lytics](https://github.com/arshpreets425/mindalytics)**  
+📚 **[MindA.I.lytics](https://github.com/ashx11/mindalytics)**  
 AI-powered emotion recognition using CNNs with 91% accuracy.  
 *Tech: Python, PyTorch, Scikit-learn*
 
-🏡 **[Condo Management System](https://github.com/arshpreets425/condomanagement)**  
+🏡 **[Condo Management System](https://github.com/ashx11/condomanagement)**  
 Web & mobile app for seamless condo management.  
 *Tech: React, Java, SQL*
 
@@ -51,8 +51,8 @@ Web & mobile app for seamless condo management.
 
 ## 📈 GitHub Stats  
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arshpreets425&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshpreets425&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashx11&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashx11&layout=compact&theme=radical)
 
 ---
 
