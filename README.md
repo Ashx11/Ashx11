@@ -1,4 +1,10 @@
-# 👋 Hi, I'm [Arshpreet Singh](https://github.com/ashx11)  
+# 👋 Hi, I'm [Arshpreet Singh](https://github.com/ashx11)  \
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshpreet-singh-b5229b204) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arshpreets425.github.io) 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshpreets425@gmail.com)
+---
 
 A **Software Engineer** passionate about **AI**, **Machine Learning**, and **full-stack development**.  
 Currently pursuing my **Bachelor's in Software Engineering** at **Concordia University** (Graduating in May 2025).  
@@ -6,11 +12,6 @@ Currently pursuing my **Bachelor's in Software Engineering** at **Concordia Univ
 
 🌟 **Turning Ideas into Real-World Solutions**  
 From coding algorithms to deploying scalable systems, I thrive on solving complex problems and contributing to innovative solutions.
-
----
-
-## 🔗 Connect with Me  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshpreet-singh-b5229b204) ![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arshpreets425.github.io) ![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshpreets425@gmail.com)  
 
 ---
 
