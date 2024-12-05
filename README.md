@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Arshpreet Singh](https://github.com/ashx11)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshpreet-singh-b5229b204) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arshpreets425.github.io) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://arshpreets425.github.io](https://ashx11.github.io/my-portfolio/)) 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshpreets425@gmail.com)
 ---
 
