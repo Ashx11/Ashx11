@@ -10,9 +10,7 @@ From coding algorithms to deploying scalable systems, I thrive on solving comple
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshpreet-singh-b5229b204)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arshpreets425.github.io)  
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshpreets425@gmail.com)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshpreet-singh-b5229b204) ![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arshpreets425.github.io) ![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshpreets425@gmail.com)  
 
 ---
 
